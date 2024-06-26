@@ -1,0 +1,8 @@
+.header-main{
+    width: 100%;
+}
+
+.header-main > img{
+    display: block;
+   width: 100%;
+}

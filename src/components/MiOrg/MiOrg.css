@@ -1,0 +1,23 @@
+.org-section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.org-section-h3{
+    color: #6278F7;
+    font-family: 'prata', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    padding-bottom:24px ;
+    border-bottom:solid 4px #6278F7;
+    
+}
+
+.org-section-img{
+   position: absolute;
+   right: 30%;
+   cursor: pointer;
+
+}
